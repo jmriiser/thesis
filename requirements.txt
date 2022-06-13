@@ -1,0 +1,11 @@
+kneed
+seaborn
+scikit-learn
+opentsne
+openpyxl
+prince
+gower
+kmodes
+numpy
+pandas
+matplotlib
